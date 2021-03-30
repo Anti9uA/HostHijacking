@@ -1,4 +1,6 @@
 # HostHijacking
+### **************** This program was developed for educational purposes. ****************  
+### **************** Please dont use this program in any malicious activities. **************** 
 ### This code hijacks the host, host.ics files and make to access the phishing site set by the hacker. 
 ### File vanishes after executed..
 ###### 호스트 파일을 조작해 해커가 원하는 피싱사이트로 피해자를 강제 연결
